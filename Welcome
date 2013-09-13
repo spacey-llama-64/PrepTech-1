@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Prep Tech</title>
+        <link rel="stylesheet" href="style.css"/>
+	</head>
+<body>
+<div id="head">
+        Preppy Tech: Welcome
+        </div>
+        <!-- Site navigation menu -->
+<ul class="navbar">
+  <li><a href="Main.html">Welcome</a>
+  <li><a href="Home.html">Home</a>
+  <li><a href="About.html">About</a>
+  <li><a href="Contacts.html">Contacts</a>
+  <li><a href="stuff.html">Last page</a>
+</ul>
+<!--<div id="nav">
+<div id="body">Stuff goes here</div>
+        Nav Bar
+        
+        </div>-->
+        <h1>Welcome</h1>
+        <img src="http://officeforward.com/main/wp-content/uploads/2007/10/fridgemag-640x480.jpg">
+
+<p>Welcome to the team!
+
+<p>This is just the first page&hellip;
+
+<p>There should be more here, but I don't know
+what yet.
+
+<address>9 September 2013<br>
+  by Addison Jones &copy; 2013.</address>
+
+</body>
+</html>
